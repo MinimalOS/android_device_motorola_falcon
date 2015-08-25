@@ -1,7 +1,2 @@
-# system.prop for falcon
-
-# radio
-rild.libargs=-d /dev/smd0
-
 ro.product.device=falcon
 ro.product.model=falcon

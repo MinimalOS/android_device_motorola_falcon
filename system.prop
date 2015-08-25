@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 ro.product.device=falcon
 ro.product.model=falcon
+=======
+>>>>>>> eb46ba1... falcon: Move props to the common device tree
